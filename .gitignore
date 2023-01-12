@@ -1,0 +1,21 @@
+#1 linea 
+Screen?.java
+
+#2 linea
+data2/*
+!data01.csv
+
+#3 linea
+/*.tmp
+
+#4 linea
+config/
+
+#5 linea
+*.dat
+!/*.dat
+data2/Test.java
+
+
+#6 linea
+
